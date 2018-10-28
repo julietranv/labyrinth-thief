@@ -18,5 +18,5 @@ python3 -m pip install -U pygame --user
 Step 3. Play!
 
 ```
-python3 game.py
+python3 Game.py
 ```
