@@ -2,8 +2,6 @@
 
 My first real project written in Python! :smiley:
 
-To play:
-
 Step 1. Get the code
 
 ```
