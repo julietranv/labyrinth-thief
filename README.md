@@ -1,1 +1,1 @@
-# labyrinth-thief
+# Labyrinth Thief
