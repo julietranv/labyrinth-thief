@@ -1,6 +1,6 @@
 # Labyrinth Thief (2016)
 
-My first real project written in Python! :smiley:
+My first real project written in Python!
 
 Step 1. Get the code
 
